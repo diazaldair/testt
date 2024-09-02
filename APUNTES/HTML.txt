@@ -1,0 +1,78 @@
+HTML
+conceptos
+-es un archivo de texto plano(significa q no esta enriquezido como word etc)(sin nada de negrillas etc es como un blog de notas)
+-tiene la extension q sea necesaria
+-cuando creamos un sitio web dijimos en su mometo q creamos HTML
+  CREAREMOS UNA PAGINA WEB
+  *html.5(crea la estructura)=>pagina web
+que es?
+ resulta q en este sitio puedes tener un enlace q te conduze a otra pagina web
+-al conjunto de paginas web q interactúan para producir algo se les llama sitio web
+-dentro del sitio web podemos tener enlace a otro sitio web(a todo eso se le llama won wa; wer,tambien se le puede llamar pagina web)
+MARKUP LEANGE
+-html para construir utilizas elementos que tienes etiqueta de apertura y de cierre
+-sketchs
+EMPIEZO DE HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <>
+    
+</body>
+</html>
+
+continuando.......
+elementos
+-<p> significa párrafo(se utiliza para colocar un parrafo)
+*ELEMENTOS COMPLETOS
+<P>=> se llama el elemento P de apertura y tiene una de cierre </p>
+-dentro de la etiqueta de apertura puedes tener atributo y contenido(diapo)
+-*ELEMENTOS VACIOS
+-solo tienen una etiqueta de apertura no necesita de cierre y no existe contenido
+*ELEMENTOS PADRES Y ELEMENTOS HIJOS
+-body elemento padre y <p> elemento hijo
+cuando se utiliza foo,bar,baz
+-cuando necesitas esccribir codigo pones nombres y se pone foo bar baz significa q no quiero pensar en el nombre
+-cuando llevamos angular es fundamental entender estas cosas
+*COMO FUNCIONA?
+-fronted desarrolla el html el css y javascrip
+-cuando es localhost lo deploya
+-el the back ara codigo en lenguajes PHP ETC
+-usuario coloca la URL y hace solicitud al servidor web dinamico
+-el navegador solo entiende javascrip,html y css.
+-dentro de la pagna de incicio hacemos click y igual se hace una solicitud a la API y lo guanda a un servidor de base de datos
+-json es un archivo de texto plano que se escribe de manera particular
+*NECESITAMOS APRENDER
+-balsami para hacer un bosquejo en general
+-html (son cajas,estas cajas permiten hacer la estructura del sitio)
+-css (se encarga de tranformar toda tu estructura ejm iconos tama;os colores)
+-javascrip(para q mi contenido sea dinamico ej formulario para mover lo hacemos con javascrip) hace q el sitio sea vivo y trabaje con el usuario
+-typescrip (es un superconjunto de javascrip)
+-se convierte a javascrip lo "transpila"
+-Angular (se escribio con type script,si entiendes type scrip)angular sera facil es un framework,te creara miles de archivos y te ahorra la vida.
+-bustrap(la creo )utilizaremos una libreria para q se vea bn en un dispositivo
+-cuando tu creas tu sistema primero lo creas para un movil
+-sass
+-postman(permite hacer solicitudesa una API)el navegador va y le pide al servidor le pide un jsaon y luego dibujaba la amburguesa
+-json(pagina json.org)documentacion aprender(es una forma de escribir un archivo de texto)
+-Linux(no es necesario casi)
+-vamos a crear un servidor con el y instalarempos un sistema operativo(ubuntu 0)
+-apache(es lo q permite al navegardor solicita,este pache escucha la solicitud busca y entrega al navegador)(entender la estructura)
+-base de datos en sistemas web o cualquier sistema(no sql)
+-en lugar de escribir seect * user en tu codgio escribiras user.all
+*USABILIDAD
+-aprender la usabilidad
+-proteger al usuario de cometer errores
+-cuando estas escribiendo mal ej correo 
+-el usuario debe entender el software
+-cuando un usuario tiene discapacidad e ver ej forzeo de ver la pagina.
+-cuando creas el sitio web pero por detras siempre hay normal(ISO) no puedes centrarte libremente sin considerar la parte cientifica
+*POR QUE USAMOS ANGULAR
+parte del libro(diapos lunes)pag 3-22
+-
